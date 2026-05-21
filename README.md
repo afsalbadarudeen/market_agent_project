@@ -96,3 +96,22 @@ Execution pauses for manual validation.
 5. Final Report
 
 Generates structured financial analysis.
+## Screenshots
+
+<p align="center">
+  <img src="Screenshot6.png" width="45%"/>
+  <img src="Screenshot5.png" width="45%"/>
+  
+ 
+</p>
+
+<p align="center">
+<img src="brave_screenshot_gemini.google.com (1).png" width="45%"/>
+  <img src="Screenshot7.png" width="45%"/>
+  
+</p>
+
+<p align="center">
+ <img src="Screenshot1.png" width="45%"/>
+<img src="Screenshot3.png" width="45%"/>  
+</p>
